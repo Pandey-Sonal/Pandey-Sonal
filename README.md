@@ -24,7 +24,7 @@
 - **HandSign – Gesture Recognition**: Detects hand gestures using ML & Java  
 - **BST Visualization**: Visualises Binary Search Tree operations in Java  
 - **Dice Roller Android App** (Kotlin)  
-- **Java TicTacToe** with simple UI  
+ 
 
 ## 🌱 What I’m learning
 - Deep ML (Image / Gesture Recognition)  
