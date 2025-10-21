@@ -25,3 +25,12 @@
 > “Stay curious, keep coding, and build things that matter.”
 
 Thanks for visiting! 😊
+
+---
+
+### 📊 GitHub Stats
+
+![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandey-Sonal&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandey-Sonal&layout=compact&theme=tokyonight)
+
