@@ -5,7 +5,10 @@
 - I love building interactive apps and exploring gesture recognition, algorithms and real-world automation.
 
 ## 🛠 Tech Stack
-- **Languages**: Java, Kotlin, Python  
+- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 - **Domains**: Android Development, Machine Learning, Desktop Applications  
 - **Tools**: Git, GitHub, IntelliJ, Android Studio, VS Code  
 
