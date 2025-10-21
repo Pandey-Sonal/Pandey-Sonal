@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I’m Sonal 👋
 
-<!--
-**Pandey-Sonal/Pandey-Sonal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- I’m **Sonal Pandey**, a software developer specialising in Java, Kotlin & machine-learning applications.  
+- I love building interactive apps and exploring gesture recognition, algorithms and real-world automation.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages**: Java, Kotlin, Python  
+- **Domains**: Android Development, Machine Learning, Desktop Applications  
+- **Tools**: Git, GitHub, IntelliJ, Android Studio, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 My Projects
+- **HandSign – Gesture Recognition**: Detects hand gestures using ML & Java  
+- **BST Visualization**: Visualises Binary Search Tree operations in Java  
+- **Dice Roller Android App** (Kotlin)  
+- **Java TicTacToe** with simple UI  
+
+## 🌱 What I’m learning
+- Deep ML (Image / Gesture Recognition)  
+- Full-stack web development (Node + React)  
+- Open-source contribution  
+
+---
+
+> “Stay curious, keep coding, and build things that matter.”
+
+Thanks for visiting! 😊
