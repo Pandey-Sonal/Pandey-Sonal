@@ -40,11 +40,6 @@ Git | GitHub | Pandas | NumPy | scikit-learn
 * Created API using FastAPI
 * Designed UI for real-time predictions
 
-### 🗺️ City Navigation System
-
-* Interactive maps with routing
-* Custom markers & animations using Leaflet
-
 ### 🤟 Sign Language Recognition
 
 * Computer vision model for gesture detection
