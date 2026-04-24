@@ -24,9 +24,6 @@ React.js | HTML | CSS
 **Backend:**
 FastAPI | Node.js
 
-**Mobile:**
-Flutter | Dart
-
 **Tools & Libraries:**
 Git | GitHub | Pandas | NumPy | scikit-learn
 
