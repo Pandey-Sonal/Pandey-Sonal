@@ -1,47 +1,64 @@
-# Hi there, I’m Sonal 👋
+# 👋 Hey! I'm Sonal Pandey
+
+💻 Software Developer | 🚀 Building real-world applications
+
+---
 
 ## 🚀 About Me
-- I’m **Sonal Pandey**, a software developer specialising in Java, Kotlin & machine-learning applications.  
-- I love building interactive apps and exploring gesture recognition, algorithms and real-world automation.
 
-## 🛠 Tech Stack
-- **Languages**: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-- **Domains**: ![Android Development](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Desktop Applications](https://img.shields.io/badge/Desktop_Applications-4B0082?style=for-the-badge&logo=windows&logoColor=white)
- 
-- **Tools**: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
- 
-
-## 🔭 My Projects
-- **HandSign – Gesture Recognition**: Detects hand gestures using ML & Java  
-- **BST Visualization**: Visualises Binary Search Tree operations in Java  
-- **Dice Roller Android App** (Kotlin)  
- 
-
-## 🌱 What I’m learning
-- Deep ML (Image / Gesture Recognition)  
-- Full-stack web development (Node + React)  
-- Open-source contribution  
+* 🔭 Currently working on **projects in Android & Machine Learning**
+* 🌱 Exploring **AI & Data Analytics**
+* 💡 Passionate about building **useful, real-world solutions**
+* ⚡ I enjoy turning ideas into working products
 
 ---
 
-> “Stay curious, keep coding, and build things that matter.”
+## 🛠️ Tech Stack
 
-Thanks for visiting! 😊
+**Languages:**
+Python | Java | SQL
+
+**Frontend:**
+React.js | HTML | CSS
+
+**Backend:**
+FastAPI | Node.js
+
+**Mobile:**
+Flutter | Dart
+
+**Tools & Libraries:**
+Git | GitHub | Pandas | NumPy | scikit-learn
 
 ---
 
-### 📊 GitHub Stats
+## 📌 Featured Projects
 
-![Sonal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pandey-Sonal&show_icons=true&theme=tokyonight)
+### 🏠 Property Price Predictor
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandey-Sonal&layout=compact&theme=tokyonight)
+* Built ML model to predict house prices
+* Created API using FastAPI
+* Designed UI for real-time predictions
 
+### 🗺️ City Navigation System
+
+* Interactive maps with routing
+* Custom markers & animations using Leaflet
+
+### 🤟 Sign Language Recognition
+
+* Computer vision model for gesture detection
+* Real-time prediction using deep learning
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Pandey-Sonal\&show_icons=true\&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pandey-Sonal\&layout=compact)
+
+---
+
+
+✨ *“I build projects that solve real problems, not just tutorials.”*
